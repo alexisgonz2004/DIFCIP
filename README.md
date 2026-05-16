@@ -14,6 +14,7 @@ Plataforma analítica que procesa datos de ventas de una empresa dominicana, gen
 
 ## 📁 Estructura del proyecto
 
+```
 DIFCIP/
 ├── data/
 │   ├── raw/
@@ -26,6 +27,7 @@ DIFCIP/
 ├── presentation/
 ├── screenshots/
 └── README.md
+```
 
 ## 🎯 Objetivos del proyecto
 
