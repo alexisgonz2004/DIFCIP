@@ -41,5 +41,5 @@ DIFCIP/
 
 **Alexis Gonzalez**  
 Data Analyst en formación  
-📧 alexisgonzalez182004@gmail.com
+📧 alexisgonzalez182004@gmail.com 
 
