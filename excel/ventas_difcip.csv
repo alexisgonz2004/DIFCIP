@@ -1,0 +1,445 @@
+﻿id_venta,fecha,cliente,vendedor,region,producto,categoria,cantidad,precio_unitario,subtotal,itbis,total,ncf,tipo_ncf
+1,2024-03-11,Grupo Ramos,José García,Santiago,Jugo Tropical x12,Bebidas,8,680,5440,0.0,5440.0,B02-00000001,B02
+3,2024-01-02,Distribuidora Rojas,Ana Rodríguez,San Pedro de Macorís,Cemento Portland (saco),Construcción,29,590,17110,3079.8,20189.8,B01-00000003,B01
+4,2024-01-25,Supermercados Nacional,Luisa Peralta,Barahona,Pintura Latex Galón,Ferretería,7,1450,10150,0.0,10150.0,B01-00000004,B01
+5,2024-04-06,El Emporio del Sur,Pedro Fernández,San Pedro de Macorís,Papel Higiénico x48,Limpieza,8,1100,8800,1584.0,10384.0,B02-00000005,B02
+6,2024-02-28,Distribuidora Flores,Carlos Méndez,Higüey,Cerveza Presidente x24,Bebidas,5,1200,6000,0.0,6000.0,B01-00000006,B01
+7,2024-04-03,Grupo Ramos,Luisa Peralta,Santiago,Varilla 3/8 (quintal),Construcción,30,3800,114000,20520.0,134520.0,B02-00000007,B02
+8,2024-03-03,Comercial Hernández,Luisa Peralta,San Pedro de Macorís,Agua Mineral x24,Bebidas,41,420,17220,0.0,17220.0,B02-00000008,B02
+10,2024-06-16,Corripio Import,Pedro Fernández,La Romana,Agua Mineral x24,Bebidas,46,420,19320,3477.6,22797.6,B01-00000010,B01
+11,2024-03-08,Inversiones Pérez SRL,Ana Rodríguez,La Romana,Cemento Portland (saco),Construcción,48,590,28320,5097.6,33417.6,B01-00000011,B01
+12,2024-01-13,Comercial Hernández,María Santos,Santiago,Papel Higiénico x48,Limpieza,32,1100,35200,0.0,35200.0,B01-00000012,B01
+13,2024-04-29,Supermercados Nacional,Luisa Peralta,Santiago,Cable #12 (rollo 100m),Ferretería,25,3200,80000,14400.0,94400.0,B01-00000013,B01
+14,2024-06-13,Supermercados Nacional,Luisa Peralta,Puerto Plata,Jugo Tropical x12,Bebidas,35,680,23800,4284.0,28084.0,B01-00000014,B01
+15,2024-01-28,Empresa Constructora Báez,Ana Rodríguez,La Romana,Papel Higiénico x48,Limpieza,49,1100,53900,0.0,53900.0,B01-00000015,B01
+16,2024-05-15,Grupo Rica,Pedro Fernández,Puerto Plata,Pintura Latex Galón,Ferretería,49,1450,71050,0.0,71050.0,B01-00000016,B01
+17,2024-05-25,Grupo Rica,José García,La Romana,Cemento Portland (saco),Construcción,4,590,2360,424.8,2784.8,B01-00000017,B01
+18,2024-05-20,Ferretería Americana,José García,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,43,4200,180600,32508.0,213108.0,B02-00000018,B02
+19,2024-06-20,Grupo Rica,Ana Rodríguez,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,20,1200,24000,4320.0,28320.0,B01-00000019,B01
+20,2024-05-21,Comercial Hernández,Carlos Méndez,San Pedro de Macorís,Aceite de Cocina 1gl,Alimentos,22,980,21560,0.0,21560.0,B02-00000020,B02
+21,2024-01-19,Tienda La Promesa,Ana Rodríguez,Barahona,Aceite de Cocina 1gl,Alimentos,3,980,2940,529.2,3469.2,B01-00000021,B01
+22,2024-02-18,Colmado El Vecino,María Santos,Santo Domingo,Cemento Portland (saco),Construcción,31,590,18290,3292.2,21582.2,B02-00000022,B02
+23,2024-01-26,Grupo Rica,Ana Rodríguez,San Pedro de Macorís,Jugo Tropical x12,Bebidas,42,680,28560,5140.8,33700.8,B02-00000023,B02
+24,2024-04-18,Grupo Rica,María Santos,Santiago,Cemento Portland (saco),Construcción,35,590,20650,3717.0,24367.0,B02-00000024,B02
+25,2024-01-04,Corripio Import,María Santos,Barahona,Arroz Premium 50lb,Alimentos,42,2850,119700,21546.0,141246.0,B01-00000025,B01
+27,2024-05-22,Ferretería Americana,Carlos Méndez,Santo Domingo,Cable #12 (rollo 100m),Ferretería,45,3200,144000,25920.0,169920.0,B01-00000027,B01
+28,2024-05-29,Supermercados Nacional,José García,Santiago,Cerveza Presidente x24,Bebidas,21,1200,25200,0.0,25200.0,B01-00000028,B01
+29,2024-06-21,Empresa Constructora Báez,Ana Rodríguez,Santo Domingo,Azúcar Refinada 100lb,Alimentos,5,4200,21000,3780.0,24780.0,B01-00000029,B01
+30,2024-05-29,Comercial Hernández,Luisa Peralta,La Vega,Agua Mineral x24,Bebidas,6,420,2520,453.6,2973.6,B01-00000030,B01
+31,2024-06-20,El Emporio del Sur,Carlos Méndez,Santo Domingo,Cemento Portland (saco),Construcción,17,590,10030,1805.4,11835.4,B01-00000031,B01
+32,2024-01-26,El Emporio del Sur,Pedro Fernández,Santiago,Detergente Industrial 5gl,Limpieza,40,1750,70000,12600.0,82600.0,B02-00000032,B02
+33,2024-04-22,Import & Export Martínez,Luisa Peralta,Santo Domingo,Cemento Portland (saco),Construcción,24,590,14160,2548.8,16708.8,B01-00000033,B01
+34,2024-06-18,El Emporio del Sur,Carlos Méndez,La Romana,Jugo Tropical x12,Bebidas,36,680,24480,4406.4,28886.4,B02-00000034,B02
+35,2024-03-28,Farmacia Carol,Pedro Fernández,Santo Domingo,Varilla 3/8 (quintal),Construcción,19,3800,72200,12996.0,85196.0,B02-00000035,B02
+36,2024-03-11,Distribuidora Rojas,Ana Rodríguez,Barahona,Aceite de Cocina 1gl,Alimentos,41,980,40180,7232.4,47412.4,B02-00000036,B02
+37,2024-01-03,Corripio Import,José García,Santo Domingo,Papel Higiénico x48,Limpieza,46,1100,50600,9108.0,59708.0,B02-00000037,B02
+38,2024-04-20,Import & Export Martínez,Carlos Méndez,La Vega,Pintura Latex Galón,Ferretería,38,1450,55100,9918.0,65018.0,B02-00000038,B02
+39,2024-01-27,Empresa Constructora Báez,Luisa Peralta,La Romana,Cemento Portland (saco),Construcción,44,590,25960,4672.8,30632.8,B01-00000039,B01
+42,2024-06-17,Import & Export Martínez,Pedro Fernández,La Vega,Varilla 3/8 (quintal),Construcción,15,3800,57000,10260.0,67260.0,B02-00000042,B02
+44,2024-03-29,Tienda La Promesa,Carlos Méndez,Higüey,Arroz Premium 50lb,Alimentos,7,2850,19950,3591.0,23541.0,B01-00000044,B01
+45,2024-06-30,Comercial Hernández,Luisa Peralta,San Pedro de Macorís,Agua Mineral x24,Bebidas,13,420,5460,982.8,6442.8,B01-00000045,B01
+46,2024-06-19,Grupo Rica,Luisa Peralta,Puerto Plata,Pintura Latex Galón,Ferretería,28,1450,40600,0.0,40600.0,B01-00000046,B01
+47,2024-03-24,Colmado El Vecino,Luisa Peralta,Higüey,Papel Higiénico x48,Limpieza,20,1100,22000,3960.0,25960.0,B01-00000047,B01
+48,2024-06-06,Distribuidora Rojas,Pedro Fernández,San Pedro de Macorís,Jugo Tropical x12,Bebidas,48,680,32640,5875.2,38515.2,B01-00000048,B01
+49,2024-03-23,Farmacia Carol,Luisa Peralta,La Romana,Cable #12 (rollo 100m),Ferretería,38,3200,121600,21888.0,143488.0,B01-00000049,B01
+50,2024-06-18,Import & Export Martínez,Ana Rodríguez,Puerto Plata,Jugo Tropical x12,Bebidas,6,680,4080,734.4,4814.4,B01-00000050,B01
+51,2024-01-12,Grupo Rica,María Santos,Higüey,Cemento Portland (saco),Construcción,13,590,7670,0.0,7670.0,B02-00000051,B02
+52,2024-06-27,Grupo Ramos,Carlos Méndez,Santiago,Jugo Tropical x12,Bebidas,37,680,25160,0.0,25160.0,B01-00000052,B01
+53,2024-06-27,Distribuidora Flores,Carlos Méndez,Barahona,Cable #12 (rollo 100m),Ferretería,15,3200,48000,0.0,48000.0,B01-00000053,B01
+54,2024-05-23,Empresa Constructora Báez,Luisa Peralta,Higüey,Azúcar Refinada 100lb,Alimentos,30,4200,126000,22680.0,148680.0,B01-00000054,B01
+55,2024-05-01,Distribuidora Rojas,José García,Barahona,Papel Higiénico x48,Limpieza,29,1100,31900,5742.0,37642.0,B01-00000055,B01
+56,2024-01-20,El Emporio del Sur,José García,Santiago,Jugo Tropical x12,Bebidas,16,680,10880,1958.4,12838.4,B01-00000056,B01
+57,2024-06-26,Inversiones Pérez SRL,José García,Barahona,Azúcar Refinada 100lb,Alimentos,10,4200,42000,7560.0,49560.0,B02-00000057,B02
+58,2024-04-17,Supermercados Nacional,José García,Higüey,Cable #12 (rollo 100m),Ferretería,4,3200,12800,2304.0,15104.0,B01-00000058,B01
+59,2024-03-17,Colmado El Vecino,José García,San Pedro de Macorís,Detergente Industrial 5gl,Limpieza,1,1750,1750,315.0,2065.0,B01-00000059,B01
+60,2024-05-04,Colmado El Vecino,Luisa Peralta,La Romana,Detergente Industrial 5gl,Limpieza,15,1750,26250,4725.0,30975.0,B02-00000060,B02
+61,2024-05-16,Supermercados Nacional,Carlos Méndez,Higüey,Detergente Industrial 5gl,Limpieza,9,1750,15750,2835.0,18585.0,B02-00000061,B02
+62,2024-03-07,Import & Export Martínez,María Santos,Puerto Plata,Azúcar Refinada 100lb,Alimentos,30,4200,126000,0.0,126000.0,B01-00000062,B01
+63,2024-04-30,Inversiones Pérez SRL,Ana Rodríguez,Santiago,Cable #12 (rollo 100m),Ferretería,17,3200,54400,9792.0,64192.0,B02-00000063,B02
+65,2024-03-06,Grupo Ramos,Luisa Peralta,Santiago,Agua Mineral x24,Bebidas,14,420,5880,1058.4,6938.4,B01-00000065,B01
+66,2024-01-07,Colmado El Vecino,María Santos,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,20,4200,84000,0.0,84000.0,B01-00000066,B01
+67,2024-06-09,Comercial Hernández,José García,Santiago,Aceite de Cocina 1gl,Alimentos,38,980,37240,6703.2,43943.2,B02-00000067,B02
+68,2024-04-19,Supermercados Nacional,María Santos,Barahona,Agua Mineral x24,Bebidas,3,420,1260,226.8,1486.8,B01-00000068,B01
+69,2024-06-11,Corripio Import,Luisa Peralta,Puerto Plata,Aceite de Cocina 1gl,Alimentos,28,980,27440,4939.2,32379.2,B01-00000069,B01
+70,2024-04-29,Distribuidora Flores,Ana Rodríguez,Santiago,Agua Mineral x24,Bebidas,35,420,14700,2646.0,17346.0,B01-00000070,B01
+71,2024-04-28,Farmacia Carol,Pedro Fernández,La Romana,Varilla 3/8 (quintal),Construcción,29,3800,110200,19836.0,130036.0,B01-00000071,B01
+72,2024-03-07,Distribuidora Rojas,José García,Santo Domingo,Detergente Industrial 5gl,Limpieza,14,1750,24500,4410.0,28910.0,B01-00000072,B01
+73,2024-04-14,Comercial Hernández,Luisa Peralta,Barahona,Papel Higiénico x48,Limpieza,13,1100,14300,0.0,14300.0,B01-00000073,B01
+74,2024-02-26,Inversiones Pérez SRL,María Santos,La Vega,Detergente Industrial 5gl,Limpieza,2,1750,3500,0.0,3500.0,B01-00000074,B01
+75,2024-03-31,Grupo Rica,Luisa Peralta,San Pedro de Macorís,Cable #12 (rollo 100m),Ferretería,48,3200,153600,27648.0,181248.0,B01-00000075,B01
+76,2024-06-25,Grupo Ramos,José García,Puerto Plata,Pintura Latex Galón,Ferretería,8,1450,11600,2088.0,13688.0,B02-00000076,B02
+78,2024-02-02,Supermercados Nacional,José García,Puerto Plata,Papel Higiénico x48,Limpieza,19,1100,20900,3762.0,24662.0,B01-00000078,B01
+79,2024-02-17,Grupo Rica,Carlos Méndez,Higüey,Detergente Industrial 5gl,Limpieza,31,1750,54250,9765.0,64015.0,B01-00000079,B01
+80,2024-06-24,Distribuidora Rojas,Carlos Méndez,San Pedro de Macorís,Detergente Industrial 5gl,Limpieza,5,1750,8750,1575.0,10325.0,B02-00000080,B02
+81,2024-06-04,Colmado El Vecino,María Santos,Barahona,Aceite de Cocina 1gl,Alimentos,36,980,35280,6350.4,41630.4,B01-00000081,B01
+82,2024-03-19,Grupo Rica,Ana Rodríguez,San Pedro de Macorís,Varilla 3/8 (quintal),Construcción,38,3800,144400,25992.0,170392.0,B01-00000082,B01
+84,2024-06-29,Ferretería Americana,Pedro Fernández,San Pedro de Macorís,Varilla 3/8 (quintal),Construcción,3,3800,11400,2052.0,13452.0,B02-00000084,B02
+85,2024-06-14,Supermercados Nacional,Ana Rodríguez,Puerto Plata,Cable #12 (rollo 100m),Ferretería,8,3200,25600,4608.0,30208.0,B02-00000085,B02
+86,2024-03-14,Colmado El Vecino,Pedro Fernández,Barahona,Agua Mineral x24,Bebidas,48,420,20160,3628.8,23788.8,B01-00000086,B01
+88,2024-02-14,Corripio Import,José García,Higüey,Jugo Tropical x12,Bebidas,18,680,12240,2203.2,14443.2,B01-00000088,B01
+89,2024-04-30,Distribuidora Flores,Ana Rodríguez,La Vega,Jugo Tropical x12,Bebidas,32,680,21760,3916.8,25676.8,B01-00000089,B01
+90,2024-06-18,Farmacia Carol,Carlos Méndez,La Vega,Cable #12 (rollo 100m),Ferretería,45,3200,144000,25920.0,169920.0,B01-00000090,B01
+92,2024-04-02,Supermercados Nacional,Ana Rodríguez,Puerto Plata,Cable #12 (rollo 100m),Ferretería,4,3200,12800,0.0,12800.0,B01-00000092,B01
+94,2024-01-04,El Emporio del Sur,Carlos Méndez,Barahona,Cerveza Presidente x24,Bebidas,11,1200,13200,2376.0,15576.0,B01-00000094,B01
+95,2024-05-07,Colmado El Vecino,María Santos,Barahona,Aceite de Cocina 1gl,Alimentos,42,980,41160,7408.8,48568.8,B01-00000095,B01
+96,2024-04-08,Corripio Import,Carlos Méndez,Puerto Plata,Cemento Portland (saco),Construcción,30,590,17700,3186.0,20886.0,B02-00000096,B02
+98,2024-03-29,El Emporio del Sur,Pedro Fernández,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,29,4200,121800,21924.0,143724.0,B01-00000098,B01
+99,2024-02-29,Farmacia Carol,Luisa Peralta,Higüey,Cerveza Presidente x24,Bebidas,16,1200,19200,3456.0,22656.0,B01-00000099,B01
+101,2024-04-26,Corripio Import,Carlos Méndez,Barahona,Aceite de Cocina 1gl,Alimentos,29,980,28420,0.0,28420.0,B02-00000101,B02
+102,2024-04-11,Distribuidora Flores,José García,Higüey,Varilla 3/8 (quintal),Construcción,22,3800,83600,15048.0,98648.0,B01-00000102,B01
+104,2024-01-26,Corripio Import,Luisa Peralta,Puerto Plata,Cemento Portland (saco),Construcción,48,590,28320,0.0,28320.0,B01-00000104,B01
+105,2024-01-15,Tienda La Promesa,María Santos,La Romana,Arroz Premium 50lb,Alimentos,3,2850,8550,1539.0,10089.0,B02-00000105,B02
+106,2024-04-07,Corripio Import,Ana Rodríguez,Barahona,Azúcar Refinada 100lb,Alimentos,12,4200,50400,0.0,50400.0,B01-00000106,B01
+107,2024-06-19,Comercial Hernández,José García,La Romana,Jugo Tropical x12,Bebidas,17,680,11560,2080.8,13640.8,B02-00000107,B02
+108,2024-05-30,Farmacia Carol,Pedro Fernández,San Pedro de Macorís,Aceite de Cocina 1gl,Alimentos,29,980,28420,5115.6,33535.6,B02-00000108,B02
+109,2024-04-07,Distribuidora Rojas,Carlos Méndez,Higüey,Cable #12 (rollo 100m),Ferretería,31,3200,99200,0.0,99200.0,B01-00000109,B01
+110,2024-06-24,Grupo Ramos,María Santos,Puerto Plata,Varilla 3/8 (quintal),Construcción,1,3800,3800,684.0,4484.0,B01-00000110,B01
+111,2024-02-26,Grupo Ramos,Luisa Peralta,La Romana,Cemento Portland (saco),Construcción,39,590,23010,4141.8,27151.8,B01-00000111,B01
+113,2024-04-16,Inversiones Pérez SRL,José García,Puerto Plata,Aceite de Cocina 1gl,Alimentos,19,980,18620,3351.6,21971.6,B02-00000113,B02
+114,2024-05-03,Import & Export Martínez,Carlos Méndez,Barahona,Azúcar Refinada 100lb,Alimentos,17,4200,71400,12852.0,84252.0,B01-00000114,B01
+115,2024-02-27,Distribuidora Flores,José García,La Vega,Aceite de Cocina 1gl,Alimentos,10,980,9800,1764.0,11564.0,B01-00000115,B01
+116,2024-05-17,Distribuidora Rojas,José García,Higüey,Aceite de Cocina 1gl,Alimentos,26,980,25480,0.0,25480.0,B02-00000116,B02
+117,2024-02-29,Inversiones Pérez SRL,José García,San Pedro de Macorís,Jugo Tropical x12,Bebidas,24,680,16320,0.0,16320.0,B01-00000117,B01
+118,2024-04-28,Corripio Import,Carlos Méndez,Santo Domingo,Jugo Tropical x12,Bebidas,5,680,3400,612.0,4012.0,B01-00000118,B01
+119,2024-03-01,Comercial Hernández,Luisa Peralta,Higüey,Varilla 3/8 (quintal),Construcción,32,3800,121600,0.0,121600.0,B01-00000119,B01
+120,2024-04-16,Distribuidora Rojas,Carlos Méndez,La Vega,Agua Mineral x24,Bebidas,48,420,20160,3628.8,23788.8,B01-00000120,B01
+121,2024-03-01,Tienda La Promesa,Luisa Peralta,La Vega,Cemento Portland (saco),Construcción,29,590,17110,3079.8,20189.8,B01-00000121,B01
+122,2024-02-01,Ferretería Americana,Luisa Peralta,Santo Domingo,Arroz Premium 50lb,Alimentos,26,2850,74100,13338.0,87438.0,B01-00000122,B01
+123,2024-02-02,Tienda La Promesa,Ana Rodríguez,San Pedro de Macorís,Arroz Premium 50lb,Alimentos,22,2850,62700,11286.0,73986.0,B01-00000123,B01
+124,2024-06-01,Corripio Import,José García,Puerto Plata,Cemento Portland (saco),Construcción,22,590,12980,2336.4,15316.4,B02-00000124,B02
+125,2024-01-07,Empresa Constructora Báez,Pedro Fernández,Santo Domingo,Azúcar Refinada 100lb,Alimentos,8,4200,33600,6048.0,39648.0,B02-00000125,B02
+126,2024-04-17,Import & Export Martínez,Pedro Fernández,Santiago,Azúcar Refinada 100lb,Alimentos,17,4200,71400,0.0,71400.0,B01-00000126,B01
+127,2024-06-06,Tienda La Promesa,Pedro Fernández,Barahona,Detergente Industrial 5gl,Limpieza,33,1750,57750,10395.0,68145.0,B02-00000127,B02
+128,2024-05-02,Grupo Ramos,María Santos,Santiago,Jugo Tropical x12,Bebidas,2,680,1360,0.0,1360.0,B01-00000128,B01
+129,2024-01-17,Grupo Ramos,Pedro Fernández,Higüey,Aceite de Cocina 1gl,Alimentos,21,980,20580,3704.4,24284.4,B02-00000129,B02
+130,2024-05-09,Distribuidora Flores,Luisa Peralta,San Pedro de Macorís,Agua Mineral x24,Bebidas,34,420,14280,2570.4,16850.4,B01-00000130,B01
+131,2024-04-15,Grupo Rica,Pedro Fernández,Higüey,Cable #12 (rollo 100m),Ferretería,29,3200,92800,16704.0,109504.0,B01-00000131,B01
+132,2024-02-09,Grupo Rica,Carlos Méndez,Higüey,Pintura Latex Galón,Ferretería,43,1450,62350,11223.0,73573.0,B01-00000132,B01
+133,2024-02-03,Inversiones Pérez SRL,Luisa Peralta,Santiago,Aceite de Cocina 1gl,Alimentos,48,980,47040,8467.2,55507.2,B01-00000133,B01
+134,2024-04-18,Empresa Constructora Báez,Pedro Fernández,La Vega,Cable #12 (rollo 100m),Ferretería,23,3200,73600,13248.0,86848.0,B01-00000134,B01
+135,2024-02-09,Distribuidora Flores,José García,La Vega,Aceite de Cocina 1gl,Alimentos,37,980,36260,6526.8,42786.8,B01-00000135,B01
+136,2024-02-27,Distribuidora Flores,José García,Santo Domingo,Aceite de Cocina 1gl,Alimentos,49,980,48020,8643.6,56663.6,B01-00000136,B01
+137,2024-03-09,El Emporio del Sur,Pedro Fernández,La Vega,Agua Mineral x24,Bebidas,43,420,18060,3250.8,21310.8,B02-00000137,B02
+138,2024-05-24,Supermercados Nacional,Carlos Méndez,San Pedro de Macorís,Arroz Premium 50lb,Alimentos,12,2850,34200,6156.0,40356.0,B01-00000138,B01
+139,2024-02-10,Empresa Constructora Báez,José García,Santiago,Cable #12 (rollo 100m),Ferretería,27,3200,86400,15552.0,101952.0,B01-00000139,B01
+140,2024-06-07,Colmado El Vecino,María Santos,Barahona,Arroz Premium 50lb,Alimentos,10,2850,28500,0.0,28500.0,B02-00000140,B02
+141,2024-05-11,Comercial Hernández,José García,Barahona,Cable #12 (rollo 100m),Ferretería,18,3200,57600,10368.0,67968.0,B02-00000141,B02
+143,2024-01-02,Tienda La Promesa,Luisa Peralta,San Pedro de Macorís,Varilla 3/8 (quintal),Construcción,19,3800,72200,12996.0,85196.0,B01-00000143,B01
+145,2024-04-13,Supermercados Nacional,Pedro Fernández,La Romana,Pintura Latex Galón,Ferretería,37,1450,53650,9657.0,63307.0,B01-00000145,B01
+146,2024-04-02,Empresa Constructora Báez,María Santos,Santiago,Agua Mineral x24,Bebidas,30,420,12600,2268.0,14868.0,B02-00000146,B02
+147,2024-02-26,Grupo Rica,José García,San Pedro de Macorís,Cable #12 (rollo 100m),Ferretería,20,3200,64000,11520.0,75520.0,B01-00000147,B01
+148,2024-06-14,Ferretería Americana,Ana Rodríguez,La Romana,Pintura Latex Galón,Ferretería,23,1450,33350,6003.0,39353.0,B01-00000148,B01
+149,2024-06-09,Farmacia Carol,Luisa Peralta,La Vega,Jugo Tropical x12,Bebidas,5,680,3400,0.0,3400.0,B01-00000149,B01
+150,2024-01-18,Empresa Constructora Báez,Carlos Méndez,La Vega,Jugo Tropical x12,Bebidas,21,680,14280,0.0,14280.0,B01-00000150,B01
+151,2024-04-25,Comercial Hernández,Carlos Méndez,Higüey,Papel Higiénico x48,Limpieza,5,1100,5500,990.0,6490.0,B02-00000151,B02
+152,2024-01-11,Inversiones Pérez SRL,José García,Barahona,Detergente Industrial 5gl,Limpieza,38,1750,66500,11970.0,78470.0,B01-00000152,B01
+153,2024-04-25,Grupo Ramos,Carlos Méndez,La Romana,Papel Higiénico x48,Limpieza,10,1100,11000,1980.0,12980.0,B02-00000153,B02
+154,2024-04-22,El Emporio del Sur,Pedro Fernández,Higüey,Arroz Premium 50lb,Alimentos,16,2850,45600,8208.0,53808.0,B01-00000154,B01
+155,2024-06-02,Inversiones Pérez SRL,Carlos Méndez,Higüey,Cable #12 (rollo 100m),Ferretería,50,3200,160000,28800.0,188800.0,B02-00000155,B02
+156,2024-06-17,Grupo Rica,José García,La Romana,Varilla 3/8 (quintal),Construcción,17,3800,64600,11628.0,76228.0,B01-00000156,B01
+157,2024-06-27,Grupo Rica,Pedro Fernández,Higüey,Pintura Latex Galón,Ferretería,20,1450,29000,5220.0,34220.0,B01-00000157,B01
+158,2024-06-20,El Emporio del Sur,José García,Santiago,Jugo Tropical x12,Bebidas,22,680,14960,2692.8,17652.8,B01-00000158,B01
+159,2024-04-02,Inversiones Pérez SRL,María Santos,San Pedro de Macorís,Jugo Tropical x12,Bebidas,43,680,29240,5263.2,34503.2,B02-00000159,B02
+160,2024-03-16,Distribuidora Flores,Luisa Peralta,Santo Domingo,Cemento Portland (saco),Construcción,9,590,5310,0.0,5310.0,B01-00000160,B01
+161,2024-06-07,Distribuidora Flores,Luisa Peralta,La Romana,Jugo Tropical x12,Bebidas,22,680,14960,2692.8,17652.8,B02-00000161,B02
+162,2024-04-03,Distribuidora Rojas,Luisa Peralta,Barahona,Cerveza Presidente x24,Bebidas,29,1200,34800,0.0,34800.0,B01-00000162,B01
+163,2024-04-30,Empresa Constructora Báez,María Santos,Barahona,Cemento Portland (saco),Construcción,35,590,20650,3717.0,24367.0,B01-00000163,B01
+164,2024-05-15,Empresa Constructora Báez,Ana Rodríguez,Puerto Plata,Varilla 3/8 (quintal),Construcción,50,3800,190000,34200.0,224200.0,B01-00000164,B01
+165,2024-04-05,Distribuidora Flores,Carlos Méndez,Puerto Plata,Arroz Premium 50lb,Alimentos,42,2850,119700,21546.0,141246.0,B01-00000165,B01
+166,2024-04-25,El Emporio del Sur,Ana Rodríguez,Barahona,Aceite de Cocina 1gl,Alimentos,49,980,48020,0.0,48020.0,B01-00000166,B01
+167,2024-04-11,Inversiones Pérez SRL,Ana Rodríguez,Santo Domingo,Pintura Latex Galón,Ferretería,2,1450,2900,522.0,3422.0,B01-00000167,B01
+170,2024-03-18,Empresa Constructora Báez,María Santos,Santiago,Aceite de Cocina 1gl,Alimentos,50,980,49000,8820.0,57820.0,B02-00000170,B02
+171,2024-01-05,Distribuidora Rojas,María Santos,Santo Domingo,Aceite de Cocina 1gl,Alimentos,32,980,31360,5644.8,37004.8,B01-00000171,B01
+172,2024-04-16,Inversiones Pérez SRL,Carlos Méndez,Santo Domingo,Agua Mineral x24,Bebidas,23,420,9660,1738.8,11398.8,B02-00000172,B02
+174,2024-01-27,Supermercados Nacional,Pedro Fernández,La Vega,Cemento Portland (saco),Construcción,47,590,27730,4991.4,32721.4,B01-00000174,B01
+175,2024-06-24,Import & Export Martínez,Ana Rodríguez,Santiago,Jugo Tropical x12,Bebidas,12,680,8160,1468.8,9628.8,B01-00000175,B01
+178,2024-04-04,Colmado El Vecino,Pedro Fernández,La Romana,Jugo Tropical x12,Bebidas,22,680,14960,2692.8,17652.8,B01-00000178,B01
+179,2024-05-12,Colmado El Vecino,José García,La Romana,Detergente Industrial 5gl,Limpieza,45,1750,78750,14175.0,92925.0,B02-00000179,B02
+180,2024-01-21,Grupo Ramos,María Santos,La Romana,Papel Higiénico x48,Limpieza,19,1100,20900,3762.0,24662.0,B01-00000180,B01
+181,2024-01-11,Colmado El Vecino,Pedro Fernández,Santo Domingo,Cerveza Presidente x24,Bebidas,29,1200,34800,6264.0,41064.0,B01-00000181,B01
+182,2024-04-03,Supermercados Nacional,Ana Rodríguez,Barahona,Aceite de Cocina 1gl,Alimentos,43,980,42140,7585.2,49725.2,B01-00000182,B01
+183,2024-06-14,Empresa Constructora Báez,Ana Rodríguez,Barahona,Arroz Premium 50lb,Alimentos,9,2850,25650,0.0,25650.0,B01-00000183,B01
+184,2024-01-20,Comercial Hernández,Pedro Fernández,San Pedro de Macorís,Pintura Latex Galón,Ferretería,24,1450,34800,6264.0,41064.0,B01-00000184,B01
+185,2024-05-07,Import & Export Martínez,Pedro Fernández,Barahona,Aceite de Cocina 1gl,Alimentos,2,980,1960,352.8,2312.8,B01-00000185,B01
+186,2024-05-05,Corripio Import,Luisa Peralta,Barahona,Cemento Portland (saco),Construcción,40,590,23600,4248.0,27848.0,B02-00000186,B02
+187,2024-03-22,Distribuidora Rojas,Pedro Fernández,La Romana,Aceite de Cocina 1gl,Alimentos,44,980,43120,7761.6,50881.6,B01-00000187,B01
+188,2024-06-12,Ferretería Americana,Ana Rodríguez,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,46,1200,55200,9936.0,65136.0,B02-00000188,B02
+189,2024-05-26,Empresa Constructora Báez,Carlos Méndez,Santiago,Detergente Industrial 5gl,Limpieza,2,1750,3500,630.0,4130.0,B01-00000189,B01
+190,2024-05-02,Grupo Rica,Ana Rodríguez,La Vega,Varilla 3/8 (quintal),Construcción,26,3800,98800,17784.0,116584.0,B01-00000190,B01
+191,2024-06-23,Tienda La Promesa,Luisa Peralta,La Romana,Jugo Tropical x12,Bebidas,5,680,3400,612.0,4012.0,B01-00000191,B01
+192,2024-01-15,Corripio Import,Pedro Fernández,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,28,4200,117600,21168.0,138768.0,B01-00000192,B01
+193,2024-01-21,Corripio Import,Luisa Peralta,Puerto Plata,Pintura Latex Galón,Ferretería,34,1450,49300,8874.0,58174.0,B02-00000193,B02
+194,2024-06-13,Comercial Hernández,José García,La Vega,Agua Mineral x24,Bebidas,35,420,14700,0.0,14700.0,B02-00000194,B02
+195,2024-01-08,Distribuidora Rojas,Luisa Peralta,San Pedro de Macorís,Agua Mineral x24,Bebidas,3,420,1260,226.8,1486.8,B02-00000195,B02
+196,2024-01-08,Distribuidora Rojas,María Santos,San Pedro de Macorís,Agua Mineral x24,Bebidas,27,420,11340,2041.2,13381.2,B01-00000196,B01
+197,2024-01-19,Farmacia Carol,Ana Rodríguez,La Vega,Jugo Tropical x12,Bebidas,26,680,17680,3182.4,20862.4,B01-00000197,B01
+198,2024-03-22,Corripio Import,Pedro Fernández,Santiago,Agua Mineral x24,Bebidas,10,420,4200,756.0,4956.0,B01-00000198,B01
+199,2024-03-09,Colmado El Vecino,José García,Higüey,Pintura Latex Galón,Ferretería,16,1450,23200,4176.0,27376.0,B01-00000199,B01
+200,2024-05-27,Tienda La Promesa,María Santos,Barahona,Cemento Portland (saco),Construcción,11,590,6490,1168.2,7658.2,B01-00000200,B01
+201,2024-04-10,Inversiones Pérez SRL,Carlos Méndez,Santo Domingo,Varilla 3/8 (quintal),Construcción,32,3800,121600,0.0,121600.0,B01-00000201,B01
+203,2024-04-13,Ferretería Americana,Pedro Fernández,Puerto Plata,Varilla 3/8 (quintal),Construcción,47,3800,178600,32148.0,210748.0,B01-00000203,B01
+204,2024-05-20,Grupo Rica,Ana Rodríguez,Santiago,Aceite de Cocina 1gl,Alimentos,25,980,24500,4410.0,28910.0,B02-00000204,B02
+205,2024-03-27,Empresa Constructora Báez,José García,Higüey,Cable #12 (rollo 100m),Ferretería,24,3200,76800,13824.0,90624.0,B01-00000205,B01
+206,2024-02-05,Corripio Import,José García,La Romana,Papel Higiénico x48,Limpieza,3,1100,3300,0.0,3300.0,B01-00000206,B01
+207,2024-04-10,Inversiones Pérez SRL,José García,Barahona,Pintura Latex Galón,Ferretería,40,1450,58000,10440.0,68440.0,B01-00000207,B01
+208,2024-01-05,Empresa Constructora Báez,Pedro Fernández,Santo Domingo,Cerveza Presidente x24,Bebidas,37,1200,44400,7992.0,52392.0,B01-00000208,B01
+209,2024-06-16,Grupo Ramos,Carlos Méndez,Barahona,Agua Mineral x24,Bebidas,31,420,13020,2343.6,15363.6,B01-00000209,B01
+210,2024-06-07,Ferretería Americana,Carlos Méndez,Santiago,Azúcar Refinada 100lb,Alimentos,34,4200,142800,25704.0,168504.0,B01-00000210,B01
+211,2024-04-17,Import & Export Martínez,José García,Barahona,Cemento Portland (saco),Construcción,2,590,1180,212.4,1392.4,B02-00000211,B02
+212,2024-02-05,Farmacia Carol,José García,Higüey,Cerveza Presidente x24,Bebidas,47,1200,56400,0.0,56400.0,B01-00000212,B01
+213,2024-05-16,Grupo Ramos,Luisa Peralta,Puerto Plata,Pintura Latex Galón,Ferretería,12,1450,17400,3132.0,20532.0,B01-00000213,B01
+214,2024-03-04,Distribuidora Rojas,Pedro Fernández,San Pedro de Macorís,Agua Mineral x24,Bebidas,31,420,13020,0.0,13020.0,B02-00000214,B02
+215,2024-05-02,Distribuidora Rojas,Pedro Fernández,Santiago,Cerveza Presidente x24,Bebidas,46,1200,55200,9936.0,65136.0,B01-00000215,B01
+216,2024-04-11,Distribuidora Rojas,Carlos Méndez,Puerto Plata,Agua Mineral x24,Bebidas,44,420,18480,3326.4,21806.4,B01-00000216,B01
+217,2024-04-23,Distribuidora Flores,José García,Puerto Plata,Cerveza Presidente x24,Bebidas,6,1200,7200,1296.0,8496.0,B01-00000217,B01
+218,2024-01-28,Comercial Hernández,José García,San Pedro de Macorís,Papel Higiénico x48,Limpieza,45,1100,49500,8910.0,58410.0,B01-00000218,B01
+219,2024-04-15,Corripio Import,Carlos Méndez,La Romana,Jugo Tropical x12,Bebidas,15,680,10200,0.0,10200.0,B01-00000219,B01
+220,2024-05-01,Inversiones Pérez SRL,Pedro Fernández,Santo Domingo,Cable #12 (rollo 100m),Ferretería,42,3200,134400,24192.0,158592.0,B01-00000220,B01
+222,2024-04-11,Distribuidora Flores,Pedro Fernández,Santo Domingo,Azúcar Refinada 100lb,Alimentos,3,4200,12600,2268.0,14868.0,B01-00000222,B01
+223,2024-01-28,Comercial Hernández,José García,Barahona,Arroz Premium 50lb,Alimentos,20,2850,57000,10260.0,67260.0,B01-00000223,B01
+224,2024-02-19,Comercial Hernández,Pedro Fernández,La Romana,Azúcar Refinada 100lb,Alimentos,33,4200,138600,24948.0,163548.0,B01-00000224,B01
+225,2024-03-16,Distribuidora Flores,Luisa Peralta,Higüey,Arroz Premium 50lb,Alimentos,48,2850,136800,24624.0,161424.0,B01-00000225,B01
+226,2024-04-12,Inversiones Pérez SRL,Ana Rodríguez,Santo Domingo,Cable #12 (rollo 100m),Ferretería,33,3200,105600,19008.0,124608.0,B01-00000226,B01
+227,2024-03-09,Supermercados Nacional,Pedro Fernández,La Vega,Varilla 3/8 (quintal),Construcción,25,3800,95000,17100.0,112100.0,B01-00000227,B01
+228,2024-01-31,El Emporio del Sur,Luisa Peralta,Puerto Plata,Cerveza Presidente x24,Bebidas,16,1200,19200,0.0,19200.0,B01-00000228,B01
+229,2024-03-16,Farmacia Carol,Ana Rodríguez,Barahona,Cerveza Presidente x24,Bebidas,8,1200,9600,1728.0,11328.0,B01-00000229,B01
+230,2024-06-28,Comercial Hernández,Ana Rodríguez,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,39,1200,46800,8424.0,55224.0,B01-00000230,B01
+231,2024-01-21,El Emporio del Sur,José García,Santiago,Jugo Tropical x12,Bebidas,49,680,33320,5997.6,39317.6,B01-00000231,B01
+232,2024-02-21,Tienda La Promesa,María Santos,Santiago,Arroz Premium 50lb,Alimentos,36,2850,102600,18468.0,121068.0,B01-00000232,B01
+233,2024-05-05,Farmacia Carol,Ana Rodríguez,Higüey,Jugo Tropical x12,Bebidas,14,680,9520,1713.6,11233.6,B02-00000233,B02
+235,2024-03-29,El Emporio del Sur,Carlos Méndez,Barahona,Agua Mineral x24,Bebidas,5,420,2100,0.0,2100.0,B01-00000235,B01
+236,2024-02-04,Colmado El Vecino,Pedro Fernández,Higüey,Arroz Premium 50lb,Alimentos,19,2850,54150,9747.0,63897.0,B01-00000236,B01
+237,2024-06-23,Distribuidora Flores,Pedro Fernández,Santiago,Detergente Industrial 5gl,Limpieza,25,1750,43750,7875.0,51625.0,B01-00000237,B01
+239,2024-05-16,Corripio Import,Pedro Fernández,San Pedro de Macorís,Jugo Tropical x12,Bebidas,47,680,31960,5752.8,37712.8,B01-00000239,B01
+240,2024-06-18,Supermercados Nacional,Ana Rodríguez,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,49,1200,58800,0.0,58800.0,B01-00000240,B01
+242,2024-01-15,El Emporio del Sur,Luisa Peralta,La Vega,Detergente Industrial 5gl,Limpieza,15,1750,26250,4725.0,30975.0,B02-00000242,B02
+243,2024-03-23,Tienda La Promesa,Ana Rodríguez,Higüey,Agua Mineral x24,Bebidas,39,420,16380,2948.4,19328.4,B02-00000243,B02
+244,2024-05-31,Colmado El Vecino,José García,Barahona,Varilla 3/8 (quintal),Construcción,18,3800,68400,0.0,68400.0,B01-00000244,B01
+245,2024-06-20,Colmado El Vecino,Ana Rodríguez,Puerto Plata,Arroz Premium 50lb,Alimentos,23,2850,65550,11799.0,77349.0,B01-00000245,B01
+246,2024-05-01,Corripio Import,María Santos,Santo Domingo,Cable #12 (rollo 100m),Ferretería,12,3200,38400,6912.0,45312.0,B02-00000246,B02
+247,2024-05-22,Inversiones Pérez SRL,Luisa Peralta,Santiago,Papel Higiénico x48,Limpieza,27,1100,29700,5346.0,35046.0,B01-00000247,B01
+248,2024-02-18,Supermercados Nacional,Carlos Méndez,San Pedro de Macorís,Detergente Industrial 5gl,Limpieza,24,1750,42000,0.0,42000.0,B02-00000248,B02
+249,2024-02-25,El Emporio del Sur,Carlos Méndez,San Pedro de Macorís,Agua Mineral x24,Bebidas,47,420,19740,3553.2,23293.2,B01-00000249,B01
+250,2024-05-02,Colmado El Vecino,Ana Rodríguez,La Vega,Cemento Portland (saco),Construcción,48,590,28320,0.0,28320.0,B01-00000250,B01
+251,2024-06-15,Farmacia Carol,María Santos,Santiago,Varilla 3/8 (quintal),Construcción,25,3800,95000,17100.0,112100.0,B01-00000251,B01
+252,2024-03-22,Empresa Constructora Báez,Ana Rodríguez,La Romana,Cerveza Presidente x24,Bebidas,31,1200,37200,6696.0,43896.0,B01-00000252,B01
+253,2024-05-29,Inversiones Pérez SRL,Ana Rodríguez,Higüey,Arroz Premium 50lb,Alimentos,17,2850,48450,8721.0,57171.0,B01-00000253,B01
+254,2024-06-16,Farmacia Carol,Luisa Peralta,Barahona,Agua Mineral x24,Bebidas,16,420,6720,1209.6,7929.6,B01-00000254,B01
+255,2024-03-31,El Emporio del Sur,José García,Santo Domingo,Detergente Industrial 5gl,Limpieza,11,1750,19250,3465.0,22715.0,B02-00000255,B02
+256,2024-01-20,Colmado El Vecino,Ana Rodríguez,San Pedro de Macorís,Papel Higiénico x48,Limpieza,3,1100,3300,594.0,3894.0,B01-00000256,B01
+257,2024-02-25,Comercial Hernández,José García,Barahona,Aceite de Cocina 1gl,Alimentos,46,980,45080,0.0,45080.0,B01-00000257,B01
+259,2024-06-21,El Emporio del Sur,Carlos Méndez,La Romana,Arroz Premium 50lb,Alimentos,33,2850,94050,16929.0,110979.0,B01-00000259,B01
+260,2024-03-05,Inversiones Pérez SRL,María Santos,Barahona,Cemento Portland (saco),Construcción,13,590,7670,1380.6,9050.6,B01-00000260,B01
+261,2024-02-27,Distribuidora Flores,Luisa Peralta,Santo Domingo,Agua Mineral x24,Bebidas,16,420,6720,1209.6,7929.6,B02-00000261,B02
+262,2024-05-21,Grupo Rica,María Santos,Higüey,Aceite de Cocina 1gl,Alimentos,26,980,25480,4586.4,30066.4,B01-00000262,B01
+263,2024-01-25,El Emporio del Sur,Luisa Peralta,Barahona,Jugo Tropical x12,Bebidas,22,680,14960,2692.8,17652.8,B01-00000263,B01
+264,2024-06-24,Supermercados Nacional,Ana Rodríguez,La Vega,Varilla 3/8 (quintal),Construcción,3,3800,11400,2052.0,13452.0,B01-00000264,B01
+265,2024-04-11,Empresa Constructora Báez,María Santos,La Vega,Arroz Premium 50lb,Alimentos,14,2850,39900,7182.0,47082.0,B01-00000265,B01
+266,2024-06-25,Supermercados Nacional,Carlos Méndez,Higüey,Cable #12 (rollo 100m),Ferretería,49,3200,156800,28224.0,185024.0,B01-00000266,B01
+267,2024-06-06,Supermercados Nacional,Luisa Peralta,Puerto Plata,Cemento Portland (saco),Construcción,5,590,2950,531.0,3481.0,B01-00000267,B01
+268,2024-05-21,Comercial Hernández,María Santos,Santiago,Detergente Industrial 5gl,Limpieza,32,1750,56000,10080.0,66080.0,B01-00000268,B01
+269,2024-01-19,Comercial Hernández,Ana Rodríguez,Higüey,Agua Mineral x24,Bebidas,19,420,7980,1436.4,9416.4,B02-00000269,B02
+270,2024-01-02,Grupo Rica,Ana Rodríguez,Santiago,Pintura Latex Galón,Ferretería,24,1450,34800,0.0,34800.0,B01-00000270,B01
+271,2024-05-22,Tienda La Promesa,Carlos Méndez,La Vega,Azúcar Refinada 100lb,Alimentos,28,4200,117600,21168.0,138768.0,B01-00000271,B01
+272,2024-04-09,Ferretería Americana,José García,La Romana,Cable #12 (rollo 100m),Ferretería,1,3200,3200,576.0,3776.0,B01-00000272,B01
+273,2024-03-09,Colmado El Vecino,Pedro Fernández,Higüey,Jugo Tropical x12,Bebidas,25,680,17000,0.0,17000.0,B01-00000273,B01
+274,2024-04-02,Empresa Constructora Báez,José García,San Pedro de Macorís,Varilla 3/8 (quintal),Construcción,31,3800,117800,21204.0,139004.0,B02-00000274,B02
+275,2024-01-02,Import & Export Martínez,Pedro Fernández,Barahona,Detergente Industrial 5gl,Limpieza,7,1750,12250,0.0,12250.0,B01-00000275,B01
+276,2024-06-15,Grupo Ramos,Ana Rodríguez,Barahona,Pintura Latex Galón,Ferretería,28,1450,40600,7308.0,47908.0,B01-00000276,B01
+277,2024-03-22,Empresa Constructora Báez,Ana Rodríguez,La Vega,Pintura Latex Galón,Ferretería,12,1450,17400,3132.0,20532.0,B02-00000277,B02
+278,2024-04-10,Tienda La Promesa,Ana Rodríguez,Santo Domingo,Cable #12 (rollo 100m),Ferretería,18,3200,57600,10368.0,67968.0,B01-00000278,B01
+279,2024-02-23,Distribuidora Flores,María Santos,Barahona,Cerveza Presidente x24,Bebidas,30,1200,36000,6480.0,42480.0,B01-00000279,B01
+280,2024-03-05,Grupo Rica,María Santos,Barahona,Azúcar Refinada 100lb,Alimentos,41,4200,172200,30996.0,203196.0,B01-00000280,B01
+283,2024-01-26,Empresa Constructora Báez,Luisa Peralta,San Pedro de Macorís,Pintura Latex Galón,Ferretería,28,1450,40600,0.0,40600.0,B02-00000283,B02
+284,2024-06-22,Supermercados Nacional,María Santos,Santiago,Detergente Industrial 5gl,Limpieza,24,1750,42000,7560.0,49560.0,B01-00000284,B01
+285,2024-01-22,Distribuidora Rojas,Pedro Fernández,Barahona,Varilla 3/8 (quintal),Construcción,27,3800,102600,18468.0,121068.0,B02-00000285,B02
+286,2024-05-01,Grupo Rica,Pedro Fernández,Santo Domingo,Cemento Portland (saco),Construcción,34,590,20060,3610.8,23670.8,B02-00000286,B02
+287,2024-03-28,Grupo Ramos,Ana Rodríguez,La Romana,Cerveza Presidente x24,Bebidas,8,1200,9600,0.0,9600.0,B01-00000287,B01
+288,2024-04-19,Corripio Import,Ana Rodríguez,Higüey,Papel Higiénico x48,Limpieza,11,1100,12100,2178.0,14278.0,B01-00000288,B01
+290,2024-05-17,Distribuidora Rojas,Luisa Peralta,Barahona,Cerveza Presidente x24,Bebidas,5,1200,6000,1080.0,7080.0,B02-00000290,B02
+291,2024-04-09,Distribuidora Flores,María Santos,La Romana,Papel Higiénico x48,Limpieza,41,1100,45100,8118.0,53218.0,B01-00000291,B01
+292,2024-06-06,Ferretería Americana,Pedro Fernández,Santiago,Jugo Tropical x12,Bebidas,46,680,31280,5630.4,36910.4,B01-00000292,B01
+293,2024-05-10,Colmado El Vecino,Ana Rodríguez,Barahona,Azúcar Refinada 100lb,Alimentos,24,4200,100800,18144.0,118944.0,B01-00000293,B01
+294,2024-06-14,Distribuidora Rojas,Ana Rodríguez,La Romana,Jugo Tropical x12,Bebidas,35,680,23800,4284.0,28084.0,B01-00000294,B01
+295,2024-04-01,Colmado El Vecino,José García,Barahona,Pintura Latex Galón,Ferretería,29,1450,42050,7569.0,49619.0,B01-00000295,B01
+296,2024-06-30,Supermercados Nacional,Ana Rodríguez,Puerto Plata,Cable #12 (rollo 100m),Ferretería,44,3200,140800,25344.0,166144.0,B01-00000296,B01
+297,2024-03-14,Import & Export Martínez,María Santos,Santiago,Arroz Premium 50lb,Alimentos,18,2850,51300,9234.0,60534.0,B02-00000297,B02
+298,2024-05-19,Supermercados Nacional,Luisa Peralta,Barahona,Agua Mineral x24,Bebidas,8,420,3360,604.8,3964.8,B01-00000298,B01
+299,2024-01-27,Distribuidora Flores,Carlos Méndez,Barahona,Papel Higiénico x48,Limpieza,14,1100,15400,2772.0,18172.0,B01-00000299,B01
+300,2024-01-23,Ferretería Americana,Ana Rodríguez,La Vega,Varilla 3/8 (quintal),Construcción,23,3800,87400,15732.0,103132.0,B01-00000300,B01
+301,2024-02-12,Import & Export Martínez,Carlos Méndez,La Vega,Cerveza Presidente x24,Bebidas,40,1200,48000,8640.0,56640.0,B01-00000301,B01
+302,2024-02-13,Distribuidora Rojas,José García,Santiago,Papel Higiénico x48,Limpieza,18,1100,19800,3564.0,23364.0,B01-00000302,B01
+303,2024-01-16,Distribuidora Flores,Ana Rodríguez,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,49,4200,205800,37044.0,242844.0,B01-00000303,B01
+304,2024-03-04,Empresa Constructora Báez,Luisa Peralta,Puerto Plata,Azúcar Refinada 100lb,Alimentos,46,4200,193200,34776.0,227976.0,B01-00000304,B01
+305,2024-01-20,Tienda La Promesa,Luisa Peralta,Puerto Plata,Jugo Tropical x12,Bebidas,27,680,18360,3304.8,21664.8,B01-00000305,B01
+307,2024-01-17,Distribuidora Flores,Ana Rodríguez,Barahona,Jugo Tropical x12,Bebidas,43,680,29240,5263.2,34503.2,B01-00000307,B01
+308,2024-03-27,Import & Export Martínez,Pedro Fernández,Santo Domingo,Varilla 3/8 (quintal),Construcción,21,3800,79800,14364.0,94164.0,B01-00000308,B01
+309,2024-04-27,Farmacia Carol,Carlos Méndez,Higüey,Arroz Premium 50lb,Alimentos,7,2850,19950,3591.0,23541.0,B02-00000309,B02
+310,2024-06-15,Grupo Rica,Luisa Peralta,La Vega,Cemento Portland (saco),Construcción,45,590,26550,4779.0,31329.0,B01-00000310,B01
+311,2024-06-15,Grupo Ramos,Ana Rodríguez,Higüey,Varilla 3/8 (quintal),Construcción,6,3800,22800,4104.0,26904.0,B02-00000311,B02
+312,2024-01-01,Tienda La Promesa,Luisa Peralta,Barahona,Jugo Tropical x12,Bebidas,6,680,4080,734.4,4814.4,B02-00000312,B02
+313,2024-01-31,Grupo Rica,Ana Rodríguez,Higüey,Arroz Premium 50lb,Alimentos,1,2850,2850,513.0,3363.0,B01-00000313,B01
+314,2024-01-27,Import & Export Martínez,Ana Rodríguez,La Romana,Aceite de Cocina 1gl,Alimentos,47,980,46060,8290.8,54350.8,B01-00000314,B01
+315,2024-06-05,Comercial Hernández,Luisa Peralta,La Romana,Aceite de Cocina 1gl,Alimentos,34,980,33320,5997.6,39317.6,B01-00000315,B01
+316,2024-02-25,Empresa Constructora Báez,Luisa Peralta,Higüey,Cable #12 (rollo 100m),Ferretería,40,3200,128000,23040.0,151040.0,B02-00000316,B02
+317,2024-02-05,Empresa Constructora Báez,José García,Puerto Plata,Pintura Latex Galón,Ferretería,28,1450,40600,7308.0,47908.0,B02-00000317,B02
+318,2024-06-17,Ferretería Americana,Luisa Peralta,Higüey,Cerveza Presidente x24,Bebidas,2,1200,2400,432.0,2832.0,B01-00000318,B01
+319,2024-03-02,Empresa Constructora Báez,Carlos Méndez,Santo Domingo,Varilla 3/8 (quintal),Construcción,42,3800,159600,0.0,159600.0,B01-00000319,B01
+320,2024-05-25,Farmacia Carol,Carlos Méndez,Santo Domingo,Pintura Latex Galón,Ferretería,21,1450,30450,0.0,30450.0,B01-00000320,B01
+321,2024-02-25,Tienda La Promesa,Pedro Fernández,Higüey,Agua Mineral x24,Bebidas,5,420,2100,0.0,2100.0,B02-00000321,B02
+322,2024-06-12,Distribuidora Rojas,Carlos Méndez,San Pedro de Macorís,Cable #12 (rollo 100m),Ferretería,45,3200,144000,25920.0,169920.0,B01-00000322,B01
+323,2024-05-30,Grupo Rica,Pedro Fernández,Higüey,Azúcar Refinada 100lb,Alimentos,35,4200,147000,26460.0,173460.0,B01-00000323,B01
+324,2024-01-23,Supermercados Nacional,Pedro Fernández,La Romana,Cerveza Presidente x24,Bebidas,16,1200,19200,0.0,19200.0,B01-00000324,B01
+325,2024-06-28,Tienda La Promesa,Luisa Peralta,Puerto Plata,Aceite de Cocina 1gl,Alimentos,1,980,980,176.4,1156.4,B02-00000325,B02
+326,2024-03-09,Inversiones Pérez SRL,María Santos,Puerto Plata,Azúcar Refinada 100lb,Alimentos,24,4200,100800,0.0,100800.0,B01-00000326,B01
+327,2024-05-27,Supermercados Nacional,María Santos,La Romana,Papel Higiénico x48,Limpieza,5,1100,5500,990.0,6490.0,B01-00000327,B01
+328,2024-01-27,Grupo Ramos,José García,Santo Domingo,Pintura Latex Galón,Ferretería,11,1450,15950,2871.0,18821.0,B01-00000328,B01
+329,2024-04-30,Distribuidora Flores,Carlos Méndez,Higüey,Arroz Premium 50lb,Alimentos,1,2850,2850,513.0,3363.0,B01-00000329,B01
+330,2024-03-22,Tienda La Promesa,Luisa Peralta,Santo Domingo,Cemento Portland (saco),Construcción,21,590,12390,2230.2,14620.2,B02-00000330,B02
+331,2024-01-12,Distribuidora Rojas,Pedro Fernández,La Vega,Azúcar Refinada 100lb,Alimentos,15,4200,63000,11340.0,74340.0,B01-00000331,B01
+332,2024-04-04,Empresa Constructora Báez,Ana Rodríguez,Barahona,Aceite de Cocina 1gl,Alimentos,36,980,35280,6350.4,41630.4,B02-00000332,B02
+333,2024-02-20,Corripio Import,Carlos Méndez,Higüey,Pintura Latex Galón,Ferretería,38,1450,55100,9918.0,65018.0,B01-00000333,B01
+334,2024-06-11,Supermercados Nacional,Luisa Peralta,Higüey,Arroz Premium 50lb,Alimentos,15,2850,42750,7695.0,50445.0,B01-00000334,B01
+335,2024-02-22,Supermercados Nacional,Ana Rodríguez,Puerto Plata,Cerveza Presidente x24,Bebidas,47,1200,56400,10152.0,66552.0,B01-00000335,B01
+336,2024-05-13,Grupo Ramos,Carlos Méndez,Santiago,Aceite de Cocina 1gl,Alimentos,3,980,2940,529.2,3469.2,B01-00000336,B01
+337,2024-04-10,Corripio Import,Ana Rodríguez,Puerto Plata,Papel Higiénico x48,Limpieza,9,1100,9900,1782.0,11682.0,B02-00000337,B02
+338,2024-04-10,Distribuidora Rojas,Ana Rodríguez,Santiago,Varilla 3/8 (quintal),Construcción,21,3800,79800,14364.0,94164.0,B01-00000338,B01
+339,2024-05-29,Inversiones Pérez SRL,María Santos,Santiago,Cemento Portland (saco),Construcción,9,590,5310,955.8,6265.8,B02-00000339,B02
+340,2024-02-23,Grupo Rica,Ana Rodríguez,Puerto Plata,Papel Higiénico x48,Limpieza,23,1100,25300,4554.0,29854.0,B01-00000340,B01
+341,2024-02-25,Ferretería Americana,Pedro Fernández,Higüey,Cerveza Presidente x24,Bebidas,45,1200,54000,9720.0,63720.0,B01-00000341,B01
+342,2024-03-07,Distribuidora Flores,María Santos,San Pedro de Macorís,Papel Higiénico x48,Limpieza,4,1100,4400,792.0,5192.0,B01-00000342,B01
+343,2024-02-05,Ferretería Americana,Ana Rodríguez,San Pedro de Macorís,Aceite de Cocina 1gl,Alimentos,30,980,29400,0.0,29400.0,B02-00000343,B02
+344,2024-06-14,Grupo Rica,Carlos Méndez,Santiago,Cable #12 (rollo 100m),Ferretería,24,3200,76800,13824.0,90624.0,B02-00000344,B02
+345,2024-02-02,Grupo Rica,Carlos Méndez,Barahona,Cemento Portland (saco),Construcción,42,590,24780,4460.4,29240.4,B02-00000345,B02
+348,2024-05-20,Colmado El Vecino,Ana Rodríguez,San Pedro de Macorís,Jugo Tropical x12,Bebidas,19,680,12920,2325.6,15245.6,B01-00000348,B01
+349,2024-04-07,Farmacia Carol,Pedro Fernández,La Vega,Jugo Tropical x12,Bebidas,35,680,23800,4284.0,28084.0,B01-00000349,B01
+351,2024-02-29,Distribuidora Rojas,José García,Santo Domingo,Papel Higiénico x48,Limpieza,23,1100,25300,4554.0,29854.0,B01-00000351,B01
+352,2024-04-09,Corripio Import,Ana Rodríguez,La Vega,Cemento Portland (saco),Construcción,37,590,21830,3929.4,25759.4,B01-00000352,B01
+353,2024-05-31,Empresa Constructora Báez,Ana Rodríguez,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,45,1200,54000,9720.0,63720.0,B02-00000353,B02
+354,2024-05-05,Supermercados Nacional,José García,Barahona,Detergente Industrial 5gl,Limpieza,35,1750,61250,11025.0,72275.0,B02-00000354,B02
+355,2024-02-21,Import & Export Martínez,Pedro Fernández,Santo Domingo,Arroz Premium 50lb,Alimentos,22,2850,62700,11286.0,73986.0,B01-00000355,B01
+356,2024-02-06,Grupo Rica,Pedro Fernández,Higüey,Arroz Premium 50lb,Alimentos,10,2850,28500,5130.0,33630.0,B01-00000356,B01
+357,2024-03-23,Import & Export Martínez,Luisa Peralta,Barahona,Agua Mineral x24,Bebidas,7,420,2940,529.2,3469.2,B02-00000357,B02
+358,2024-05-23,Ferretería Americana,Luisa Peralta,La Romana,Jugo Tropical x12,Bebidas,21,680,14280,0.0,14280.0,B01-00000358,B01
+359,2024-03-16,Empresa Constructora Báez,María Santos,Santo Domingo,Cable #12 (rollo 100m),Ferretería,20,3200,64000,11520.0,75520.0,B02-00000359,B02
+360,2024-06-05,Corripio Import,Pedro Fernández,Santiago,Azúcar Refinada 100lb,Alimentos,39,4200,163800,29484.0,193284.0,B02-00000360,B02
+361,2024-02-12,Comercial Hernández,Luisa Peralta,La Vega,Cemento Portland (saco),Construcción,23,590,13570,2442.6,16012.6,B01-00000361,B01
+362,2024-03-04,Grupo Ramos,Carlos Méndez,Santo Domingo,Detergente Industrial 5gl,Limpieza,1,1750,1750,315.0,2065.0,B01-00000362,B01
+363,2024-02-12,Tienda La Promesa,María Santos,Santiago,Cable #12 (rollo 100m),Ferretería,29,3200,92800,16704.0,109504.0,B01-00000363,B01
+364,2024-06-24,Supermercados Nacional,Pedro Fernández,Santo Domingo,Detergente Industrial 5gl,Limpieza,37,1750,64750,11655.0,76405.0,B02-00000364,B02
+365,2024-01-19,Grupo Rica,José García,Santiago,Pintura Latex Galón,Ferretería,17,1450,24650,4437.0,29087.0,B01-00000365,B01
+366,2024-05-03,Empresa Constructora Báez,María Santos,La Romana,Pintura Latex Galón,Ferretería,39,1450,56550,10179.0,66729.0,B01-00000366,B01
+367,2024-02-18,Tienda La Promesa,Pedro Fernández,Puerto Plata,Arroz Premium 50lb,Alimentos,7,2850,19950,3591.0,23541.0,B01-00000367,B01
+368,2024-04-10,Inversiones Pérez SRL,Carlos Méndez,Higüey,Varilla 3/8 (quintal),Construcción,16,3800,60800,0.0,60800.0,B01-00000368,B01
+370,2024-03-19,Distribuidora Rojas,Carlos Méndez,Higüey,Aceite de Cocina 1gl,Alimentos,31,980,30380,5468.4,35848.4,B01-00000370,B01
+372,2024-06-27,Tienda La Promesa,María Santos,San Pedro de Macorís,Agua Mineral x24,Bebidas,4,420,1680,0.0,1680.0,B01-00000372,B01
+373,2024-05-13,Farmacia Carol,José García,San Pedro de Macorís,Papel Higiénico x48,Limpieza,4,1100,4400,792.0,5192.0,B01-00000373,B01
+374,2024-01-09,Comercial Hernández,José García,La Romana,Detergente Industrial 5gl,Limpieza,20,1750,35000,0.0,35000.0,B01-00000374,B01
+375,2024-02-12,Colmado El Vecino,Carlos Méndez,Higüey,Aceite de Cocina 1gl,Alimentos,49,980,48020,8643.6,56663.6,B01-00000375,B01
+376,2024-06-01,Grupo Rica,Carlos Méndez,Higüey,Cemento Portland (saco),Construcción,41,590,24190,0.0,24190.0,B02-00000376,B02
+378,2024-05-25,El Emporio del Sur,Carlos Méndez,Santiago,Aceite de Cocina 1gl,Alimentos,27,980,26460,0.0,26460.0,B01-00000378,B01
+379,2024-04-15,Farmacia Carol,Carlos Méndez,La Romana,Varilla 3/8 (quintal),Construcción,35,3800,133000,23940.0,156940.0,B02-00000379,B02
+380,2024-06-04,El Emporio del Sur,Pedro Fernández,San Pedro de Macorís,Varilla 3/8 (quintal),Construcción,26,3800,98800,0.0,98800.0,B01-00000380,B01
+382,2024-02-28,Distribuidora Flores,Pedro Fernández,Puerto Plata,Detergente Industrial 5gl,Limpieza,45,1750,78750,14175.0,92925.0,B02-00000382,B02
+383,2024-01-23,Grupo Ramos,María Santos,La Vega,Cerveza Presidente x24,Bebidas,27,1200,32400,5832.0,38232.0,B02-00000383,B02
+384,2024-01-17,Distribuidora Flores,José García,Santo Domingo,Arroz Premium 50lb,Alimentos,33,2850,94050,16929.0,110979.0,B01-00000384,B01
+385,2024-02-21,El Emporio del Sur,Pedro Fernández,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,13,4200,54600,9828.0,64428.0,B01-00000385,B01
+386,2024-05-09,Ferretería Americana,Pedro Fernández,Barahona,Varilla 3/8 (quintal),Construcción,24,3800,91200,16416.0,107616.0,B01-00000386,B01
+387,2024-05-01,El Emporio del Sur,Pedro Fernández,Santiago,Agua Mineral x24,Bebidas,29,420,12180,0.0,12180.0,B01-00000387,B01
+388,2024-02-11,Ferretería Americana,Luisa Peralta,San Pedro de Macorís,Varilla 3/8 (quintal),Construcción,2,3800,7600,1368.0,8968.0,B01-00000388,B01
+389,2024-04-14,Comercial Hernández,Carlos Méndez,Barahona,Jugo Tropical x12,Bebidas,14,680,9520,1713.6,11233.6,B01-00000389,B01
+390,2024-01-03,Grupo Ramos,Luisa Peralta,Puerto Plata,Azúcar Refinada 100lb,Alimentos,42,4200,176400,0.0,176400.0,B02-00000390,B02
+391,2024-04-27,Distribuidora Flores,José García,Higüey,Cable #12 (rollo 100m),Ferretería,25,3200,80000,14400.0,94400.0,B02-00000391,B02
+392,2024-06-18,Empresa Constructora Báez,José García,Puerto Plata,Agua Mineral x24,Bebidas,7,420,2940,0.0,2940.0,B01-00000392,B01
+393,2024-01-17,Distribuidora Rojas,Pedro Fernández,Puerto Plata,Varilla 3/8 (quintal),Construcción,44,3800,167200,0.0,167200.0,B01-00000393,B01
+394,2024-03-02,Empresa Constructora Báez,María Santos,La Vega,Cemento Portland (saco),Construcción,10,590,5900,1062.0,6962.0,B01-00000394,B01
+395,2024-06-16,Colmado El Vecino,María Santos,Santo Domingo,Jugo Tropical x12,Bebidas,9,680,6120,1101.6,7221.6,B01-00000395,B01
+396,2024-02-18,Comercial Hernández,María Santos,La Vega,Agua Mineral x24,Bebidas,46,420,19320,3477.6,22797.6,B01-00000396,B01
+397,2024-06-17,Corripio Import,Luisa Peralta,Puerto Plata,Papel Higiénico x48,Limpieza,20,1100,22000,3960.0,25960.0,B01-00000397,B01
+398,2024-02-16,Ferretería Americana,Pedro Fernández,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,36,1200,43200,7776.0,50976.0,B01-00000398,B01
+399,2024-03-25,Grupo Rica,María Santos,Santo Domingo,Cerveza Presidente x24,Bebidas,20,1200,24000,4320.0,28320.0,B01-00000399,B01
+400,2024-06-07,Distribuidora Flores,Luisa Peralta,Higüey,Jugo Tropical x12,Bebidas,38,680,25840,4651.2,30491.2,B02-00000400,B02
+401,2024-02-08,Empresa Constructora Báez,María Santos,La Romana,Papel Higiénico x48,Limpieza,20,1100,22000,3960.0,25960.0,B02-00000401,B02
+402,2024-01-21,Comercial Hernández,Carlos Méndez,Santo Domingo,Pintura Latex Galón,Ferretería,46,1450,66700,0.0,66700.0,B01-00000402,B01
+403,2024-02-13,Import & Export Martínez,Carlos Méndez,La Romana,Detergente Industrial 5gl,Limpieza,18,1750,31500,5670.0,37170.0,B01-00000403,B01
+405,2024-05-15,Ferretería Americana,Ana Rodríguez,La Vega,Arroz Premium 50lb,Alimentos,21,2850,59850,10773.0,70623.0,B02-00000405,B02
+406,2024-05-08,Distribuidora Rojas,Pedro Fernández,Barahona,Varilla 3/8 (quintal),Construcción,9,3800,34200,0.0,34200.0,B01-00000406,B01
+407,2024-03-27,El Emporio del Sur,María Santos,La Vega,Cerveza Presidente x24,Bebidas,34,1200,40800,7344.0,48144.0,B01-00000407,B01
+408,2024-04-13,Ferretería Americana,Luisa Peralta,Santo Domingo,Cemento Portland (saco),Construcción,11,590,6490,1168.2,7658.2,B02-00000408,B02
+409,2024-04-03,Comercial Hernández,Pedro Fernández,Santo Domingo,Agua Mineral x24,Bebidas,33,420,13860,0.0,13860.0,B01-00000409,B01
+412,2024-06-04,Tienda La Promesa,Luisa Peralta,Santiago,Jugo Tropical x12,Bebidas,34,680,23120,4161.6,27281.6,B01-00000412,B01
+413,2024-05-07,Tienda La Promesa,Ana Rodríguez,La Vega,Varilla 3/8 (quintal),Construcción,8,3800,30400,5472.0,35872.0,B02-00000413,B02
+414,2024-01-11,Farmacia Carol,Pedro Fernández,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,27,1200,32400,5832.0,38232.0,B01-00000414,B01
+415,2024-01-29,Grupo Rica,José García,Santiago,Arroz Premium 50lb,Alimentos,1,2850,2850,513.0,3363.0,B01-00000415,B01
+416,2024-03-06,Distribuidora Rojas,María Santos,Santo Domingo,Cerveza Presidente x24,Bebidas,47,1200,56400,0.0,56400.0,B01-00000416,B01
+417,2024-03-15,Grupo Rica,Carlos Méndez,Santo Domingo,Aceite de Cocina 1gl,Alimentos,12,980,11760,2116.8,13876.8,B01-00000417,B01
+418,2024-02-13,Distribuidora Rojas,Luisa Peralta,Santiago,Arroz Premium 50lb,Alimentos,9,2850,25650,4617.0,30267.0,B01-00000418,B01
+419,2024-04-12,Grupo Ramos,María Santos,Higüey,Pintura Latex Galón,Ferretería,22,1450,31900,0.0,31900.0,B01-00000419,B01
+420,2024-06-27,Grupo Rica,María Santos,Barahona,Jugo Tropical x12,Bebidas,11,680,7480,0.0,7480.0,B01-00000420,B01
+422,2024-04-15,Supermercados Nacional,Luisa Peralta,San Pedro de Macorís,Detergente Industrial 5gl,Limpieza,32,1750,56000,0.0,56000.0,B01-00000422,B01
+423,2024-06-25,Ferretería Americana,María Santos,La Vega,Jugo Tropical x12,Bebidas,22,680,14960,2692.8,17652.8,B01-00000423,B01
+424,2024-02-08,Supermercados Nacional,Carlos Méndez,La Romana,Jugo Tropical x12,Bebidas,44,680,29920,5385.6,35305.6,B01-00000424,B01
+425,2024-02-12,Distribuidora Rojas,Carlos Méndez,San Pedro de Macorís,Papel Higiénico x48,Limpieza,31,1100,34100,6138.0,40238.0,B02-00000425,B02
+426,2024-03-01,Grupo Rica,María Santos,Barahona,Papel Higiénico x48,Limpieza,42,1100,46200,8316.0,54516.0,B02-00000426,B02
+428,2024-05-10,Inversiones Pérez SRL,Pedro Fernández,Santo Domingo,Agua Mineral x24,Bebidas,40,420,16800,3024.0,19824.0,B01-00000428,B01
+429,2024-06-07,Farmacia Carol,Carlos Méndez,Santiago,Cemento Portland (saco),Construcción,30,590,17700,3186.0,20886.0,B01-00000429,B01
+430,2024-03-31,Tienda La Promesa,Pedro Fernández,Santiago,Jugo Tropical x12,Bebidas,15,680,10200,0.0,10200.0,B01-00000430,B01
+431,2024-04-14,El Emporio del Sur,María Santos,San Pedro de Macorís,Arroz Premium 50lb,Alimentos,11,2850,31350,5643.0,36993.0,B02-00000431,B02
+433,2024-05-09,Supermercados Nacional,José García,Higüey,Detergente Industrial 5gl,Limpieza,30,1750,52500,9450.0,61950.0,B02-00000433,B02
+434,2024-02-15,Grupo Rica,María Santos,La Vega,Agua Mineral x24,Bebidas,31,420,13020,2343.6,15363.6,B01-00000434,B01
+435,2024-06-04,Inversiones Pérez SRL,Pedro Fernández,Barahona,Papel Higiénico x48,Limpieza,25,1100,27500,4950.0,32450.0,B01-00000435,B01
+436,2024-06-28,Tienda La Promesa,Pedro Fernández,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,9,4200,37800,6804.0,44604.0,B01-00000436,B01
+437,2024-03-15,Grupo Ramos,Luisa Peralta,La Romana,Cemento Portland (saco),Construcción,14,590,8260,1486.8,9746.8,B01-00000437,B01
+438,2024-03-23,Empresa Constructora Báez,José García,Higüey,Papel Higiénico x48,Limpieza,35,1100,38500,6930.0,45430.0,B01-00000438,B01
+439,2024-05-16,Tienda La Promesa,Carlos Méndez,Santo Domingo,Jugo Tropical x12,Bebidas,48,680,32640,5875.2,38515.2,B02-00000439,B02
+440,2024-01-15,Distribuidora Rojas,Luisa Peralta,Puerto Plata,Cable #12 (rollo 100m),Ferretería,10,3200,32000,0.0,32000.0,B02-00000440,B02
+441,2024-03-16,Farmacia Carol,Carlos Méndez,San Pedro de Macorís,Azúcar Refinada 100lb,Alimentos,4,4200,16800,3024.0,19824.0,B02-00000441,B02
+442,2024-03-01,Grupo Ramos,Luisa Peralta,Santo Domingo,Cerveza Presidente x24,Bebidas,42,1200,50400,9072.0,59472.0,B01-00000442,B01
+444,2024-06-14,Ferretería Americana,Luisa Peralta,San Pedro de Macorís,Cemento Portland (saco),Construcción,41,590,24190,4354.2,28544.2,B01-00000444,B01
+445,2024-06-23,Grupo Rica,María Santos,Santo Domingo,Varilla 3/8 (quintal),Construcción,29,3800,110200,0.0,110200.0,B02-00000445,B02
+447,2024-06-01,Comercial Hernández,Pedro Fernández,Barahona,Arroz Premium 50lb,Alimentos,10,2850,28500,5130.0,33630.0,B02-00000447,B02
+448,2024-06-30,Grupo Rica,José García,La Romana,Agua Mineral x24,Bebidas,36,420,15120,2721.6,17841.6,B01-00000448,B01
+449,2024-01-24,Inversiones Pérez SRL,Pedro Fernández,Puerto Plata,Cable #12 (rollo 100m),Ferretería,35,3200,112000,20160.0,132160.0,B01-00000449,B01
+450,2024-05-01,Supermercados Nacional,Carlos Méndez,La Vega,Cemento Portland (saco),Construcción,49,590,28910,5203.8,34113.8,B01-00000450,B01
+452,2024-03-13,Tienda La Promesa,José García,Barahona,Aceite de Cocina 1gl,Alimentos,25,980,24500,4410.0,28910.0,B02-00000452,B02
+453,2024-06-15,Corripio Import,José García,Santo Domingo,Detergente Industrial 5gl,Limpieza,3,1750,5250,945.0,6195.0,B02-00000453,B02
+454,2024-06-10,Grupo Rica,Ana Rodríguez,Higüey,Jugo Tropical x12,Bebidas,5,680,3400,612.0,4012.0,B01-00000454,B01
+456,2024-02-28,Colmado El Vecino,María Santos,La Vega,Varilla 3/8 (quintal),Construcción,36,3800,136800,0.0,136800.0,B01-00000456,B01
+457,2024-05-16,Grupo Ramos,José García,Santo Domingo,Arroz Premium 50lb,Alimentos,25,2850,71250,12825.0,84075.0,B02-00000457,B02
+458,2024-05-08,Grupo Rica,Pedro Fernández,Barahona,Cerveza Presidente x24,Bebidas,5,1200,6000,1080.0,7080.0,B02-00000458,B02
+459,2024-01-08,Colmado El Vecino,José García,Puerto Plata,Cable #12 (rollo 100m),Ferretería,26,3200,83200,14976.0,98176.0,B01-00000459,B01
+460,2024-06-14,Tienda La Promesa,Ana Rodríguez,Santiago,Jugo Tropical x12,Bebidas,10,680,6800,1224.0,8024.0,B01-00000460,B01
+461,2024-04-10,Grupo Ramos,Luisa Peralta,La Vega,Arroz Premium 50lb,Alimentos,1,2850,2850,513.0,3363.0,B01-00000461,B01
+462,2024-05-11,Distribuidora Rojas,Ana Rodríguez,Santiago,Cemento Portland (saco),Construcción,27,590,15930,2867.4,18797.4,B02-00000462,B02
+463,2024-01-14,Farmacia Carol,Luisa Peralta,Santiago,Azúcar Refinada 100lb,Alimentos,43,4200,180600,32508.0,213108.0,B01-00000463,B01
+464,2024-01-26,Inversiones Pérez SRL,Ana Rodríguez,San Pedro de Macorís,Varilla 3/8 (quintal),Construcción,43,3800,163400,0.0,163400.0,B02-00000464,B02
+465,2024-02-19,Distribuidora Rojas,Luisa Peralta,La Romana,Aceite de Cocina 1gl,Alimentos,19,980,18620,3351.6,21971.6,B01-00000465,B01
+466,2024-03-21,Import & Export Martínez,Ana Rodríguez,Higüey,Agua Mineral x24,Bebidas,37,420,15540,2797.2,18337.2,B01-00000466,B01
+467,2024-03-25,Distribuidora Rojas,María Santos,Santiago,Varilla 3/8 (quintal),Construcción,24,3800,91200,0.0,91200.0,B01-00000467,B01
+468,2024-03-12,Distribuidora Rojas,Luisa Peralta,Santiago,Azúcar Refinada 100lb,Alimentos,42,4200,176400,31752.0,208152.0,B01-00000468,B01
+469,2024-05-09,Import & Export Martínez,José García,San Pedro de Macorís,Cerveza Presidente x24,Bebidas,5,1200,6000,1080.0,7080.0,B01-00000469,B01
+470,2024-05-18,Ferretería Americana,José García,Puerto Plata,Arroz Premium 50lb,Alimentos,36,2850,102600,18468.0,121068.0,B01-00000470,B01
+471,2024-01-24,Distribuidora Flores,José García,La Romana,Azúcar Refinada 100lb,Alimentos,30,4200,126000,22680.0,148680.0,B01-00000471,B01
+472,2024-02-15,Corripio Import,Luisa Peralta,Barahona,Papel Higiénico x48,Limpieza,9,1100,9900,1782.0,11682.0,B01-00000472,B01
+473,2024-05-04,Comercial Hernández,Ana Rodríguez,La Vega,Pintura Latex Galón,Ferretería,3,1450,4350,783.0,5133.0,B02-00000473,B02
+474,2024-01-12,Tienda La Promesa,Luisa Peralta,Puerto Plata,Cable #12 (rollo 100m),Ferretería,31,3200,99200,17856.0,117056.0,B02-00000474,B02
+475,2024-05-25,Comercial Hernández,Carlos Méndez,Puerto Plata,Cerveza Presidente x24,Bebidas,17,1200,20400,3672.0,24072.0,B02-00000475,B02
+476,2024-03-31,El Emporio del Sur,José García,Santo Domingo,Cable #12 (rollo 100m),Ferretería,15,3200,48000,8640.0,56640.0,B01-00000476,B01
+477,2024-02-28,Corripio Import,Ana Rodríguez,La Vega,Papel Higiénico x48,Limpieza,9,1100,9900,1782.0,11682.0,B02-00000477,B02
+478,2024-06-18,Farmacia Carol,Luisa Peralta,Barahona,Agua Mineral x24,Bebidas,46,420,19320,3477.6,22797.6,B02-00000478,B02
+480,2024-05-26,Tienda La Promesa,María Santos,Santo Domingo,Azúcar Refinada 100lb,Alimentos,41,4200,172200,30996.0,203196.0,B02-00000480,B02
+481,2024-03-13,Farmacia Carol,María Santos,La Romana,Cerveza Presidente x24,Bebidas,47,1200,56400,10152.0,66552.0,B01-00000481,B01
+482,2024-05-29,Distribuidora Rojas,Ana Rodríguez,La Vega,Cemento Portland (saco),Construcción,27,590,15930,2867.4,18797.4,B01-00000482,B01
+484,2024-05-01,Tienda La Promesa,José García,Santiago,Azúcar Refinada 100lb,Alimentos,39,4200,163800,0.0,163800.0,B01-00000484,B01
+486,2024-01-12,Farmacia Carol,María Santos,La Vega,Papel Higiénico x48,Limpieza,27,1100,29700,5346.0,35046.0,B01-00000486,B01
+487,2024-06-27,Import & Export Martínez,Ana Rodríguez,Santiago,Agua Mineral x24,Bebidas,48,420,20160,3628.8,23788.8,B01-00000487,B01
+489,2024-02-22,Corripio Import,María Santos,Puerto Plata,Papel Higiénico x48,Limpieza,1,1100,1100,198.0,1298.0,B01-00000489,B01
+490,2024-04-03,Ferretería Americana,María Santos,Barahona,Varilla 3/8 (quintal),Construcción,35,3800,133000,23940.0,156940.0,B01-00000490,B01
+491,2024-05-03,Grupo Ramos,María Santos,La Romana,Azúcar Refinada 100lb,Alimentos,24,4200,100800,18144.0,118944.0,B02-00000491,B02
+492,2024-04-24,Tienda La Promesa,María Santos,La Vega,Jugo Tropical x12,Bebidas,8,680,5440,979.2,6419.2,B01-00000492,B01
+493,2024-06-29,Import & Export Martínez,Carlos Méndez,La Romana,Papel Higiénico x48,Limpieza,40,1100,44000,7920.0,51920.0,B02-00000493,B02
+494,2024-01-17,Grupo Ramos,María Santos,Higüey,Detergente Industrial 5gl,Limpieza,39,1750,68250,12285.0,80535.0,B02-00000494,B02
+495,2024-06-01,Farmacia Carol,María Santos,Santo Domingo,Agua Mineral x24,Bebidas,42,420,17640,3175.2,20815.2,B02-00000495,B02
+498,2024-02-21,Grupo Rica,José García,Puerto Plata,Jugo Tropical x12,Bebidas,26,680,17680,3182.4,20862.4,B01-00000498,B01
+499,2024-03-30,Ferretería Americana,María Santos,Higüey,Cerveza Presidente x24,Bebidas,36,1200,43200,7776.0,50976.0,B01-00000499,B01
+500,2024-04-14,Inversiones Pérez SRL,Carlos Méndez,Puerto Plata,Agua Mineral x24,Bebidas,1,420,420,75.6,495.6,B01-00000500,B01
